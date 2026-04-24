@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, Summer of Bitcoin 2026!");
+    println!("Hello from BDK Wallet Summer of Bitcoin 2026!");
 }
